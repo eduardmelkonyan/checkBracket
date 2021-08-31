@@ -18,7 +18,7 @@ bracket(string){
 if(this.arr1.length == 0){
     console.log(true);
 }else{
-    throw new Error('Sxal');
+    throw new Error('Something wrong!');
 }
 }
 }
