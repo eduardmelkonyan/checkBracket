@@ -1,5 +1,5 @@
-class Stack{
-    constructor(){};
-    arr = [];
-    }
+class Stack {
+  constructor() {}
+  arr = [];
+}
 module.exports = Stack;
